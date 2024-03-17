@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1575442922 source:c:\users\fenix\workspace\operacionesmatrices\main.cpp
-	<iostream>
-	<stdlib.h>
-	<conio.h>
-
